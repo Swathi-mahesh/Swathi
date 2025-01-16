@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swathi</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.HTLQ3J3jS0oECJdJdBSeMQHaGz?pid=ImgDet&w=178&h=163&c=7&dpr=1.5">
+<img align="middle" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.HTLQ3J3jS0oECJdJdBSeMQHaGz?pid=ImgDet&w=178&h=163&c=7&dpr=1.5">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swathi-mahesh&label=Profile%20views&color=0e75b6&style=flat" alt="swathi-mahesh" /> </p>
 
